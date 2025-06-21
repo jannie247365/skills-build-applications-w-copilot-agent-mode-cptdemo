@@ -2,4 +2,3 @@
 Django>=3.2,<5.0
 djangorestframework
 pymongo
-test
